@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ACROM",
-    "slug": "acrom-hj6w3iyi7nsdqpk3pgwo",
+    "slug": "acrom",
     "version": "4.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -41,7 +41,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "e56cf936-efae-4c4b-90bb-7b53b80b6d5b"
+        "projectId": "045e3a69-c28f-42ce-804e-c4a72ff5d68c"
       }
     }
   }
